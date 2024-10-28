@@ -2,7 +2,7 @@
   "name": "workerskv-export",
   "version": "1.0.0",
   "description": "Export your Cloudflare Workers KV data to other stores",
-  "main": "index.js",
+  "main": "export.js",
   "scripts": {
     "test": "mocha"
   },
